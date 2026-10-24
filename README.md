@@ -53,28 +53,6 @@ This repository contains the complete deliverables for the **SQA Engineer Hiring
 
 ---
 
-## 🔍 Assessment Tasks & Scope
-
-```mermaid
-flowchart LR
-    A[SQA Assessment] --> B[Task 01: Chat Product]
-    A --> C[Task 02: Website & API]
-    A --> D[Task 03: AI Reflection]
-
-    B --> B1[Auth & Sessions]
-    B --> B2[5-Message Quota]
-    B --> B3[File/Doc Integrity]
-    B --> B4[Memory & Incognito]
-
-    C --> C1[Functional & SEO]
-    C --> C2[Pricing & Logic Checks]
-    C --> C3[Lighthouse Audit]
-    C --> C4[JMeter Load Testing]
-
-    D --> D1[Future of AI in SQA]
-    D --> D2[Tooling & Claude Code]
-```
-
 ### 1️⃣ Task 01: Comprehensive Technical Testing of Thaura Web App
 *Deep functional, data-integrity, security, and edge-case testing of the conversational AI product.*
 - **Authentication & Sessions:** Sign-up/login flows, session persistence, token lifecycle, and concurrent session boundaries.
